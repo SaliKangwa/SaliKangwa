@@ -6,7 +6,7 @@
 - <b>C# (.NET Full Stack Applications)</b>
   - [Service Contract](https://github.com/SaliKangwa/Service-Contract)
   - [Warehouse Innacuracy Report](https://github.com/SaliKangwa/Innacuracy-Report)
-  - [Urgent Freight Report](https://www.youtube.com/watch?v=a83ASGn_V_s)
+  - [Urgent Freight Report](https://github.com/SaliKangwa/Freight-Management)
 
 
 <h2>📊 Data Products</h2>

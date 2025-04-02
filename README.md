@@ -2,8 +2,6 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures(SQL Expert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 - <b>C# (.NET Full Stack Applications)</b>
   - [Service Contract](https://github.com/SaliKangwa/Service-Contract)

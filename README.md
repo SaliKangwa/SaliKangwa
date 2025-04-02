@@ -5,8 +5,8 @@
 
 - <b>C# (.NET Full Stack Applications)</b>
   - [Service Contract](https://github.com/SaliKangwa/Service-Contract)
-  - [Warehouse Innacuracy Report](https://github.com/SaliKangwa/Innacuracy-Report)
-  - [Urgent Freight Report](https://github.com/SaliKangwa/Freight-Management)
+  - [Warehouse Innacuracy Management System](https://github.com/SaliKangwa/Innacuracy-Report)
+  - [Freight Management System](https://github.com/SaliKangwa/Freight-Management)
 
 
 <h2>📊 Data Products</h2>
@@ -14,6 +14,7 @@
 
 - [Service Contract Report](https://github.com/SaliKangwa/Service-Contract-Report)
 - [Warehouse Inaccuracy Report](https://github.com/SaliKangwa/Warehouse-Inaccuracy-Report)
+- [Freight Management Report](https://github.com/SaliKangwa/Freight-Management-Report/tree/main)
 - [Finance Report](https://github.com/SaliKangwa/Finance-Report)
 - [Engineering Planning Report](https://github.com/SaliKangwa/Engineering-Planning-Report)
 

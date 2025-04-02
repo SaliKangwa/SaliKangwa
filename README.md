@@ -22,7 +22,7 @@
 
 - [BI Lead Programme](https://github.com/SaliKangwa/BI-Lead-Programme)
 - [Waste Reduction Campaign](https://github.com/SaliKangwa/Waste-Reduction-Campaign)
-- [Digital Transformation Programme](https://github.com/SaliKangwa/Waste-Reduction-Campaign)
+- [Digital Transformation Programme](https://github.com/SaliKangwa/Digital-Transformation-Programme/tree/main)
 
   <h2>📄 Certifications</h2>
 

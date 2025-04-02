@@ -8,13 +8,12 @@
 - <b>C# (.NET Full Stack Applications)</b>
   - [Service Contract](https://github.com/SaliKangwa/Service-Contract)
   - [Warehouse Innacuracy Report](https://github.com/SaliKangwa/Innacuracy-Report)
+  - [Urgent Freight Report](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>📊 Data Products</h2>
 
-- [Urgent Freight Report](https://www.youtube.com/watch?v=a83ASGn_V_s)
+
 - [Service Contract Report](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [Warehouse Inaccuracy Report](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Finance Report](https://www.youtube.com/watch?v=OfvdQeh79s0)

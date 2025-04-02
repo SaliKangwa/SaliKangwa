@@ -12,16 +12,16 @@
 <h2>📊 Data Products</h2>
 
 
-- [Service Contract Report](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [Warehouse Inaccuracy Report](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Finance Report](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Engineering Planning Report](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Service Contract Report](https://github.com/SaliKangwa/Service-Contract-Report)
+- [Warehouse Inaccuracy Report](https://github.com/SaliKangwa/Warehouse-Inaccuracy-Report)
+- [Finance Report](https://github.com/SaliKangwa/Finance-Report)
+- [Engineering Planning Report](https://github.com/SaliKangwa/Engineering-Planning-Report)
 
   <h2>📺 Digital Transformation Products</h2>
 
-- [BI Lead Programme](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Waste Reduction Campaign](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [Digital Transformation Programme](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [BI Lead Programme](https://github.com/SaliKangwa/BI-Lead-Programme)
+- [Waste Reduction Campaign](https://github.com/SaliKangwa/Waste-Reduction-Campaign)
+- [Digital Transformation Programme](https://github.com/SaliKangwa/Waste-Reduction-Campaign)
 
   <h2>📄 Certifications</h2>
 

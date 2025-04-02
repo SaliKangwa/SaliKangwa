@@ -31,7 +31,7 @@
 - [Azure Fundamentals](https://learn.microsoft.com/en-us/users/salifyanjikangwa-1149/credentials/9716c835d06385ea?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 - [Project Management Professional](https://www.credly.com/badges/b31a4958-e3ca-413b-b8fe-f0e9a9dad301/linked_in_profile)
 - [Scrum Master](https://www.scrumstudy.com/certification/verify?type=SMC&number=1039910)
-- [Power BI Data Analyst Associate](https://learn.microsoft.com/en-us/users/salifyanjikangwa-1149/credentials/c3228f0c9c886cc2?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+- [Power BI Data Analyst Associate](https://learn.microsoft.com/en-us/users/salifyanjikangwa-1149/credentials/7a8e630f86d3c039?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 
 <h2> 🤳 Connect with me:</h2>
 <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> https://www.linkedin.com/in/salifyanji-kangwa/

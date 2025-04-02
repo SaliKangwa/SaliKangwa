@@ -7,7 +7,7 @@
 - <b>Full Stack Web App </b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>C# (.NET Desktop Applications)</b>
-  - Service Contract (https://github.com/SaliKangwa/Service-Contract)
+  - [Service Contract](https://github.com/SaliKangwa/Service-Contract)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>

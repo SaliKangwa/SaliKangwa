@@ -4,9 +4,8 @@
 
 - <b>Data Structures(SQL Expert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App </b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>C# (.NET Desktop Applications)</b>
+
+- <b>C# (.NET Full Stack Applications)</b>
   - [Service Contract](https://github.com/SaliKangwa/Service-Contract)
   - [Warehouse Innacuracy Report](https://github.com/SaliKangwa/Innacuracy-Report)
 

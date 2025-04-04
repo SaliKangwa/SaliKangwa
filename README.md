@@ -17,6 +17,7 @@
 - [Freight Management Report](https://github.com/SaliKangwa/Freight-Management-Report/tree/main)
 - [Finance Report](https://github.com/SaliKangwa/Finance-Report)
 - [Engineering Planning Report](https://github.com/SaliKangwa/Engineering-Planning-Report)
+- [IT & Digital Project Portfolio Report](https://github.com/SaliKangwa/IT-Digital-Project-Portfolio/tree/main)
 
   <h2>📺 Digital Transformation Products</h2>
 
